@@ -106,4 +106,4 @@ cargo run
 
 ## Support
 
-For support and further inquiries, please connect via Telegram: 📞 [soulcrancerdev](https://t.me/soulcrancerdev).
+For support and further inquiries, please connect via Telegram.
